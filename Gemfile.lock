@@ -15,7 +15,7 @@ GIT
 
 GIT
   remote: https://github.com/firstdraft/web_git.git
-  revision: 500357199fb7d26665bb02d0a40b0a55e6c9aa84
+  revision: d24b5d6ff7689e9ceaa9064e202880b953ba9909
   branch: jw-call-status-twice
   specs:
     web_git (0.1.0)
